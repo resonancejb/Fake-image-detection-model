@@ -3,7 +3,7 @@
 ## Overview
 This project aims to detect fake faces using a fine-tuned DenseNet121 model. The model is trained for binary classification (real vs. fake faces) using deep learning techniques.
 
-## Table of contents
+## Requirements
 
 - tensorflow
 - keras
